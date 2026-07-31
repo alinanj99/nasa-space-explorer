@@ -18,7 +18,8 @@ Built with React using useState, useEffect, and fetch().
 
 ## Live Site
 
-(Add Netlify link here)
+# Netlify link git init
+
 
 ## Future Improvements
 
