@@ -20,7 +20,6 @@ Built with React using useState, useEffect, and fetch().
 
 https://nasa-space-explorer-alina.netlify.app/
 
-## Future Improvements
+## Unsolved Problems
 
-- Previous/Next Day buttons
-- Save favorites
+- Video sizes vary depending on the source.
