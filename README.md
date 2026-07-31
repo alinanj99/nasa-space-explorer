@@ -16,10 +16,8 @@ A React app that lets users explore NASA's daily astronomy media by date.
 
 Built with React using useState, useEffect, and fetch().
 
-## Live Site
-
-# Netlify link git init
-
+## Netlify link
+https://nasa-space-explorer-alina.netlify.app/
 
 ## Future Improvements
 
